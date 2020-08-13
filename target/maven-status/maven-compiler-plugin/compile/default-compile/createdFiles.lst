@@ -1,6 +1,0 @@
-my/mmshulga/internal/IWithPhaser.class
-my/mmshulga/internal/aspect/CheckPointInvocationAspect.class
-my/mmshulga/processor/SyncedJobsProcessor$CallableWithPhaserContainer.class
-my/mmshulga/processor/SyncedJobsProcessor.class
-my/mmshulga/internal/annotation/CheckPoint.class
-my/mmshulga/internal/annotation/CheckPointSyncedJob.class
