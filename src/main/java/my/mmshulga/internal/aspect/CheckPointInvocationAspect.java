@@ -3,6 +3,7 @@ package my.mmshulga.internal.aspect;
 import my.mmshulga.internal.IWithPhaser;
 import my.mmshulga.internal.annotation.CheckPoint;
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.reflect.MethodSignature;
